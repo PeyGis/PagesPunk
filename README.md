@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# An Punk NFT Platform created with React and Solidity
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
